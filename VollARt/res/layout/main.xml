@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@drawable/bg2">
+	<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    	android:orientation="vertical"
+    	android:layout_width="fill_parent"
+    	android:layout_height="fill_parent">	
+    	    
+    	<ImageButton
+			android:id="@+id/buttonappli"
+			android:layout_width="wrap_content"
+			android:layout_height="wrap_content"
+			android:src="@drawable/appli"
+			android:layout_gravity="right"
+			android:layout_marginTop="200px"></ImageButton>
+		
+		<ImageButton
+			android:src="@drawable/bcredit"
+			android:id="@+id/buttoncredit"
+			android:layout_height="wrap_content"
+			android:layout_width="wrap_content"
+			android:gravity="center"
+			android:layout_marginTop="30px"
+			android:layout_gravity="right"></ImageButton>
+			
+		<ImageButton
+			android:src="@drawable/quitter"
+			android:id="@+id/buttonquitter"
+			android:layout_height="wrap_content"
+			android:layout_width="wrap_content"
+			android:gravity="center"
+			android:layout_marginTop="30px"
+			android:layout_gravity="right"></ImageButton>
+	</LinearLayout>
+</LinearLayout>

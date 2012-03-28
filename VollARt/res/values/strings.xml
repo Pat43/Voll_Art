@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+    <string name="app_name">Voll\'ARt</string>
+
+
+
+
+<string name="loading">Chargement des modèles</string>
+<string name="app_description">Voll\'ARt permet de visualiser un modèle 3D en réalié augmentée.</string><string name="screenshotsaved">Photo sauvegardée.</string>
+</resources>
